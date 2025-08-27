@@ -37,7 +37,7 @@ branches. If a change is exclusively relevant to a specific release, please
 target that release branch with your PR.
 
 Changes to the documentation will be reviewed by the team and, if accepted and
-merged, published to <https://docs.cometbft.com> for the respective version(s).
+merged, published to <https://docs.cometbft.com> for the respective version(s)
 
 The build process for the documentation is housed in the [CometBFT documentation
 repository](https://github.com/cometbft/cometbft-docs).
